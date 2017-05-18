@@ -1,0 +1,1 @@
+dir *.png /B -> Path_Images_train.txt

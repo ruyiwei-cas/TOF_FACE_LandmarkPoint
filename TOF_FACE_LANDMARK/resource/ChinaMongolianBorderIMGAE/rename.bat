@@ -1,0 +1,1 @@
+dir *.bmp /B -> list.txt

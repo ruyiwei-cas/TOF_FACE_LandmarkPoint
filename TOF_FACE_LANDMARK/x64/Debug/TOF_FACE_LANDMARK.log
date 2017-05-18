@@ -1,0 +1,63 @@
+﻿  train.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(64): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(79): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(80): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(81): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(82): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(171): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(192): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(194): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(196): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(198): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(207): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+  test.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\test.cpp(33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  faceDetect.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\facedetect.cpp(26): warning C4244: “=”: 从“LONGLONG”转换到“double”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\facedetect.cpp(99): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\facedetect.cpp(110): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\facedetect.cpp(130): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\facedetect.cpp(140): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\facedetect.cpp(141): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\facedetect.cpp(142): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\facedetect.cpp(143): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\facedetect.cpp(145): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  rf.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\rf.cpp(35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\rf.cpp(46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\rf.cpp(193): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\rf.cpp(199): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+  prepare.cpp
+  picornt.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\picornt.cpp(40): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+d:\code_2017\tof_face_landmark\tof_face_landmark\picornt.cpp(49): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+d:\code_2017\tof_face_landmark\tof_face_landmark\picornt.cpp(102): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+d:\code_2017\tof_face_landmark\tof_face_landmark\picornt.cpp(115): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+d:\code_2017\tof_face_landmark\tof_face_landmark\picornt.cpp(180): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\picornt.cpp(182): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  tron.cpp
+  linear.cpp
+  lbf.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(68): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(81): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(144): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(146): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(175): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(188): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  common.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\common.cpp(114): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\common.cpp(151): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\common.cpp(164): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\common.cpp(179): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\common.cpp(181): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+  正在生成代码...
+  dscal.c
+  dnrm2.c
+  ddot.c
+  daxpy.c
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1358,5): warning MSB8012: TargetExt(d.lib) does not match the Library's OutputFile property value (.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1359,5): warning MSB8012: TargetName(TOF_FACE_LANDMARK) does not match the Library's OutputFile property value (TOF_FACE_LANDMARKd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  TOF_FACE_LANDMARK.vcxproj -> D:\Code_2017\TOF_FACE_LANDMARK\x64\Debug\TOF_FACE_LANDMARKd.lib

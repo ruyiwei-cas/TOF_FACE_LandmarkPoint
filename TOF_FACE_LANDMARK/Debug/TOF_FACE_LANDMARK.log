@@ -1,0 +1,41 @@
+﻿  train.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(79): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(80): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(81): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(184): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(186): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(188): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(190): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\train.cpp(199): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+  test.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\test.cpp(73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  rf.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\rf.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_2017\tof_face_landmark\tof_face_landmark\rf.cpp(199): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+  prepare.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\prepare.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  tron.cpp
+  linear.cpp
+  lbf.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(68): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(81): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(146): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\lbf.cpp(188): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  common.cpp
+d:\code_2017\tof_face_landmark\tof_face_landmark\common.cpp(127): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_2017\tof_face_landmark\tof_face_landmark\common.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_2017\tof_face_landmark\tof_face_landmark\common.cpp(179): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+d:\code_2017\tof_face_landmark\tof_face_landmark\common.cpp(181): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+  正在生成代码...
+  dscal.c
+  dnrm2.c
+  ddot.c
+  daxpy.c
+  正在生成代码...
+  TOF_FACE_LANDMARK.vcxproj -> D:\Code_2017\TOF_FACE_LANDMARK\Debug\TOF_FACE_LANDMARK.exe
+  TOF_FACE_LANDMARK.vcxproj -> D:\Code_2017\TOF_FACE_LANDMARK\Debug\TOF_FACE_LANDMARK.pdb (Full PDB)

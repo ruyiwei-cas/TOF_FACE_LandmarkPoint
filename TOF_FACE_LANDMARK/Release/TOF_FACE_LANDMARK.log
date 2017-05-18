@@ -1,0 +1,37 @@
+﻿  common.cpp
+common.cpp(127): warning C4018: “<”: 有符号/无符号不匹配
+common.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+common.cpp(179): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+common.cpp(181): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+  lbf.cpp
+lbf.cpp(68): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+lbf.cpp(81): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+lbf.cpp(146): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+lbf.cpp(188): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+  main_t.cpp
+  prepare.cpp
+prepare.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+  rf.cpp
+rf.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+rf.cpp(199): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+  test.cpp
+test.cpp(73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  train.cpp
+train.cpp(55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+train.cpp(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+train.cpp(79): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+train.cpp(80): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+train.cpp(81): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+train.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+train.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+train.cpp(184): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+train.cpp(186): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+train.cpp(188): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+train.cpp(190): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+train.cpp(199): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+main_t.obj : error LNK2005: _main 已经在 main.obj 中定义
+lbf.obj : error LNK2001: 无法解析的外部符号 _get_decfun_coef
+lbf.obj : error LNK2001: 无法解析的外部符号 _check_parameter
+lbf.obj : error LNK2001: 无法解析的外部符号 _train
+D:\Code_2017\TOF_FACE_LANDMARK\Release\TOF_FACE_LANDMARK.exe : fatal error LNK1120: 3 个无法解析的外部命令
