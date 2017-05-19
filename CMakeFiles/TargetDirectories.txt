@@ -1,0 +1,3 @@
+/home/ruyiwei/projects/FaceLandMark/CMakeFiles/edit_cache.dir
+/home/ruyiwei/projects/FaceLandMark/CMakeFiles/rebuild_cache.dir
+/home/ruyiwei/projects/FaceLandMark/CMakeFiles/FACE_LANDMARK.dir
